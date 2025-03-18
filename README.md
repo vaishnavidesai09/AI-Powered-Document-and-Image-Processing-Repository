@@ -26,7 +26,7 @@ streamlit run script_name.py
 - **Libraries Used**: LangChain, HuggingFace Embeddings, ChromaDB, FAISS.
 - **Run Command**:
   ```bash
-  streamlit run legal_doc_qa.py
+  streamlit run rag.py
   ```
 
 ### 🌟 Nutrition Chart Analyzer
@@ -34,7 +34,7 @@ streamlit run script_name.py
 - **Libraries Used**: LangChain, Ollama, Streamlit.
 - **Run Command**:
   ```bash
-  streamlit run nutrition_analyzer.py
+  streamlit run nutrition.py
   ```
 
 ### 🌍 Landmark Identifier
@@ -42,7 +42,7 @@ streamlit run script_name.py
 - **Libraries Used**: LangChain, Ollama, Streamlit.
 - **Run Command**:
   ```bash
-  streamlit run landmark_identifier.py
+  streamlit run landmark.py
   ```
 
 ### 📋 KYC Verification
@@ -50,7 +50,7 @@ streamlit run script_name.py
 - **Libraries Used**: LangChain, Ollama, Streamlit.
 - **Run Command**:
   ```bash
-  streamlit run kyc_verification.py
+  streamlit run kyc.py
   ```
 
 ### 🔎 AI Search Agent
@@ -58,7 +58,7 @@ streamlit run script_name.py
 - **Libraries Used**: LangChain, Wikipedia API, DuckDuckGo Search.
 - **Run Command**:
   ```bash
-  streamlit run search_agent.py
+  streamlit run agent.py
   ```
 
 ## Contributing
